@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @sitterlukas
-- 👀 I’m interested in Cypress and automatization
-- 🌱 I’m currently learning javascript
+- 👀 I’m interested in javasript
 - 📫 Please reach me on my email lukas.sitter@gmail.com
 
 <!---
