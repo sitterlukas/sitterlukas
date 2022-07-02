@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sitterlukas
-- 👀 I’m interested in javasript
+- 👀 I’m interested in javascript
 - 📫 Please reach me on my email lukas.sitter@gmail.com
 
 <!---
